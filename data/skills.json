@@ -1,0 +1,110 @@
+[
+  {
+    "image": "logo - test.webp",
+    "title": "Testing",
+    "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
+    "alt": "Illustration représentant les tests logiciels et l'assurance qualité"
+  },
+  {
+    "image": "logo - playwright.webp",
+    "title": "Playwright",
+    "text": "Automatisation de tests end-to-end (E2E) cross-browser pour garantir la fiabilité des applications web",
+    "alt": "Logo de l'outil d'automatisation de tests Playwright"
+  },
+  {
+    "image": "logo - postman.webp",
+    "title": "Postman",
+    "text": "Exploration, test et validation d'API REST, création de collections et automatisation de requêtes HTTP",
+    "alt": "Logo de la plateforme de développement et de test d'API Postman"
+  },
+  {
+    "image": "logo - sonar.webp",
+    "title": "SonarQube",
+    "text": "Analyse continue de la qualité du code, détection de bugs, de vulnérabilités et respect des bonnes pratiques",
+    "alt": "Logo de l'outil d'analyse de la qualité du code SonarQube"
+  },
+  {
+    "image": "logo - optimisation-et-debug.webp",
+    "title": "Optimisation et debug",
+    "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
+    "alt": "Illustration représentant l'optimisation des performances et le débogage de code"
+  },
+  {
+    "image": "logo - html-css.webp",
+    "title": "HTML - CSS",
+    "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
+    "alt": "Logos des langages de conception web HTML5 et CSS3"
+  },
+  {
+    "image": "logo - javaScript.webp",
+    "title": "JavaScript",
+    "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
+    "alt": "Logo du langage de programmation JavaScript"
+  },
+  {
+    "image": "logo - typescript.webp",
+    "title": "TypeScript",
+    "text": "Remplissage des composants Angular, typage fort et sécurisation du code",
+    "alt": "Logo du langage de programmation TypeScript"
+  },
+  {
+    "image": "logo - angular.webp",
+    "title": "Angular",
+    "text": "Création d'applications web dynamiques (SPA), gestion des composants, du routage et des services",
+    "alt": "Logo du framework web Angular"
+  },
+  {
+    "image": "logo - cs.webp",
+    "title": "C#",
+    "text": "Développement d'applications robustes, programmation orientée objet au sein de l'écosystème .NET",
+    "alt": "Logo du langage de programmation C#"
+  },
+  {
+    "image": "logo - blazor.webp",
+    "title": "Blazor",
+    "text": "Développement d'interfaces web interactives full-stack en C# sans dépendance à JavaScript",
+    "alt": "Logo du framework web Blazor"
+  },
+  {
+    "image": "logo - asp.webp",
+    "title": "ASP .Net",
+    "text": "Création d'API RESTful et d'applications backend sécurisées, performantes et évolutives",
+    "alt": "Logo du framework web ASP.NET"
+  },
+  {
+    "image": "logo - cpp.webp",
+    "title": "C++",
+    "text": "Programmation orientée objet, gestion fine de la mémoire et développement d'applications haute performance",
+    "alt": "Logo du langage de programmation C++"
+  },
+  {
+    "image": "logo - sql.webp",
+    "title": "SQL/NoSQL",
+    "text": "Conception de schémas de données, requêtes avancées et gestion de bases relationnelles et non relationnelles",
+    "alt": "Illustration représentant les bases de données SQL et NoSQL"
+  },
+  {
+    "image": "logo - sql-server.webp",
+    "title": "SSMS",
+    "text": "Administration et gestion de bases de données SQL Server, conception et optimisation de requêtes complexes",
+    "alt": "Logo du système de gestion de base de données SQL Server Management Studio"
+  },
+  {
+    "image": "logo - bash.webp",
+    "title": "Bash/Shell",
+    "text": "Automatisation de tâches systèmes, création de scripts et gestion d'environnements serveurs Linux",
+    "alt": "Logo représentant un terminal de commandes Bash et Shell"
+  },
+  {
+    "image": "logo - vs.webp",
+    "title": "Visual Studio & VS Code",
+    "text": "Maîtrise des environnements de développement intégrés (IDE) pour le code, le debug et le versioning",
+    "alt": "Logos des éditeurs de code Visual Studio et Visual Studio Code"
+  },
+  {
+    "image": "logo - gestion-de-projet.webp",
+    "title": "Gestion de projet",
+    "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
+    "alt": "Illustration représentant l'organisation et la méthodologie de gestion de projet"
+  }
+]

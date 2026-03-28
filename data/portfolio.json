@@ -1,0 +1,23 @@
+[
+  {
+    "image": "vitrine-perso.webp",
+    "title": "Vitrine Dev et Testing",
+    "text": "Mon premier portfolio Dev & Testing lors de ma recherche d'emploi.",
+    "link": "https://github.com/Kahlamar/CbVitrineNet",
+    "alt": "Capture d'écran du premier site portfolio de Cyril axé sur le développement et le testing logiciel"
+  },
+  {
+    "image": "vitrine-python.webp",
+    "title": "Vitrine Python",
+    "text": "Mon repo d'apprentissage Python.",
+    "link": "https://github.com/Kahlamar/CbVitrineNet2",
+    "alt": "Aperçu d'un projet de vitrine ou d'un dépôt de code lié à l'apprentissage du langage Python"
+  },
+  {
+    "image": "vitrine-cpp.webp",
+    "title": "Vitrine C++",
+    "text": "Mon repo d'apprentissage C++.",
+    "link": "https://github.com/Kahlamar/CbVitrineNet3",
+    "alt": "Aperçu d'un projet de vitrine ou d'un dépôt de code lié à l'apprentissage du langage C++"
+  }
+]

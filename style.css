@@ -1,0 +1,162 @@
+/******* GENERAL *******/
+/* spacing on all sections */
+#about,
+#skills,
+#portfolio,
+#contact {
+  margin-top: 4rem;
+  padding-top: 4rem;
+}
+#about h2,
+#skills h2,
+#portfolio h2,
+#contact h2 {
+  margin-bottom: 3rem;
+}
+#contact {
+  padding-bottom: 4rem;
+}
+
+/* display background dark color on navbar scroll */
+/* display background dark color on navbar scroll */
+.navbarScroll {
+  /* Remplacement de 'transparent' par un fond sombre à 60% d'opacité pour valider WAVE */
+  background-color: rgba(0, 0, 0, 0.6);
+  transition: background-color 0.4s ease-in-out;
+  /* Optionnel : ajoute un léger flou en arrière-plan pour un effet moderne */
+  backdrop-filter: blur(3px);
+}
+
+/* display background dark color on navbar scroll */
+.navbarScroll.navbarDark {
+  background-color: #1e1e1e;
+}
+
+/* --- AJOUTS NAVBAR : Texte blanc, gras et survol --- */
+.navbar .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important;
+  font-weight: bold;
+}
+
+.navbar .nav-link:hover {
+  /* Utilisation d'un vert plus clair pour un ratio parfait sur fond sombre */
+  color: #4ade80 !important;
+  transition: color 0.3s ease-in-out;
+}
+/* --------------------------------------------------- */
+
+/* hero background image */
+.bgimage {
+  height: 100vh;
+  max-height: 900px;
+  background:
+    /* Passage de 0.6 à 0.75 pour garantir la validation WAVE du texte blanc */
+    linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+    url("images/background.webp");
+  background-size: cover;
+  position: relative;
+}
+/* text css above hero image*/
+.hero_title {
+  font-size: 4.5rem;
+  color: white;
+}
+.hero_desc {
+  font-size: 2rem;
+}
+.hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+
+/* about */
+.imageAboutPage {
+  width: 100%;
+  border-radius: 50%;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+}
+
+/* skills */
+.skillsText.card {
+  height: 350px;
+  cursor: pointer;
+}
+.skillsText img {
+  width: 100%;
+  height: 150px;
+  object-fit: contain;
+  padding: 1.5rem;
+}
+#skills p {
+  text-align: center;
+}
+.skillsIcon {
+  font-size: 36px;
+  text-align: center;
+  width: 100%;
+}
+.card-title {
+  text-align: center;
+}
+.card:hover .skillsIcon {
+  color: #008000;
+}
+.skillsText:hover {
+  border: 1px solid #008000;
+}
+
+/* portfolio */
+#portfolio p {
+  text-align: center;
+}
+
+.portfolio-img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+
+/* contact */
+.contactColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.contactColumn i {
+  color: #198754;
+}
+
+.card-body {
+  height: 200px;
+}
+
+/* --- CORRECTION DÉFINITIVE CONTRASTE BOUTONS --- */
+.btn-success {
+  /* On utilise un vert forêt très foncé pour garantir le contraste */
+  background-color: #0f5132 !important;
+  border-color: #0f5132 !important;
+  color: #ffffff !important; /* Texte blanc pur */
+  font-weight: bold;
+}
+
+.btn-success:hover {
+  /* Au survol, on fonce encore un peu plus */
+  background-color: #0a3622 !important;
+  border-color: #0a3622 !important;
+  color: #ffffff !important;
+}
+
+/* --- Sécurité pour le texte des cartes Portfolio --- */
+.portfolioContent .card-title,
+.portfolioContent .card-text {
+  /* Force le texte en sombre pour contraster parfaitement avec le fond blanc de la carte */
+  color: #212529 !important;
+}
+
+/* footer */
